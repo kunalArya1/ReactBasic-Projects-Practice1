@@ -10,7 +10,13 @@ const App = () => {
           2. The colour of “Experience:” should be blue.
       */}
 
-      {/** Project -2  */}
+      {/** 
+
+                              Project -2 
+      Build a React component to display a button with custom styles and button text as ‘Start’. The styles should be passed as props.
+    
+    
+    */}
       {/** Project -3  */}
       {/** Project -4  */}
       {/** Project -5  */}
